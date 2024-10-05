@@ -1,6 +1,6 @@
 # Nifty-50 Data Analysis (2000-2021)
 
-This project involves the analysis of stock market data for five companies listed in the Nifty-50 index between 2000 and 2021. The companies analyzed are:
+This project involves the analysis of stock market data for five companies listed in the Nifty-50 index between 2000 and 2021. Read the report for the analysis. The companies analyzed are:
 
 - **Cipla**
 - **HCL**
